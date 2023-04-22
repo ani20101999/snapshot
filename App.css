@@ -1,0 +1,66 @@
+.heading{
+  text-align: center;
+  font-family:fantasy;
+  color:darkblue;
+}
+.search{
+  margin-top:40px;
+  text-align: center;
+}
+.search input{
+  width: 250px;
+  height: 25px
+}
+.btn{
+  height: 31px;
+  background-color:darkblue;
+  color: aliceblue;
+  
+}
+.navbar ul{
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 75px
+}
+.navbar ul li{
+display: inline-block;
+padding-left: 28px ;
+
+}
+.link{
+  text-decoration: none;
+  border: 1px solid darkblue;
+  background-color: darkblue;
+  color: aliceblue;
+  padding: 5px;
+}
+
+.image{
+  width:218px;
+  height:200px;
+  padding: 10px;
+  padding-top: 20px;
+}
+.image:hover{
+  transform: scale(1.5)
+}
+.span{
+  padding: 20px;
+  text-align: center;
+  font-size: large;
+  color: darkblue;
+  font-weight: bold;
+}
+.invalid{
+  text-align: center;
+  font-size: larger;
+}
+.error{
+  text-align: center;
+  font-size: larger;
+  color: darkblue;
+  font-weight: bold;
+}
+.btn-div{
+text-align: center;
+}
